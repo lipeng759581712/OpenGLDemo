@@ -1,4 +1,5 @@
 ### GLSurfaceViewDemo
+csdn详细解析https://blog.csdn.net/hjj378315764/article/details/79701040
 ---
 用于OpenGL ES学习的Demo
 ### 相关效果图如下
